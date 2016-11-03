@@ -1,5 +1,5 @@
 {
-  "name": "cyb3r/Tper",
+  "name": "cyb3r/tper",
   "require": {
     "guzzlehttp/guzzle": "^6.2",
     "nesbot/carbon": "^1.21"
